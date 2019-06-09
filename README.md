@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is a GitHub trial.
+This repository was created as part of the Coursera Capstone project.
